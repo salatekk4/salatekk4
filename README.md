@@ -1,63 +1,65 @@
-# Максим
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Максим — salatekk4. Изучаю программирование и создаю личные проекты." />
+</p>
+
+<p align="center">
+  <a href="#обо-мне">Обо мне</a> ·
+  <a href="#технологии">Технологии</a> ·
+  <a href="#проекты">Проекты</a> ·
+  <a href="#контакты">Контакты</a>
+</p>
+
+## Обо мне
 
 ```text
-maxim@github:~$ whoami
+maxim@github:~$ cat about.txt
 ```
 
-Изучаю программирование и развиваю практические навыки разработки
-в собственных проектах. Основной язык — Python, дополнительно изучаю C++.
+Меня зовут Максим. Изучаю программирование и развиваю практические навыки разработки в собственных проектах. Основное внимание уделяю Python, дополнительно изучаю C++.
 
-## Стек и обучение
+## Технологии
 
-```text
-maxim@github:~$ cat learning.conf
+| Направление | Язык |
+| :--- | :--- |
+| Основной язык обучения и разработки | Python |
+| Дополнительное направление обучения | C++ |
+| Проект мониторинга датчиков | Java |
 
-[основное направление]
-language = Python
-
-[дополнительное направление]
-language = C++
-```
-
-## Личные проекты
+## Проекты
 
 ```text
 maxim@github:~$ ls projects/
-
-├── network_route_simulator/
-└── osm-sensor-monitor-/
+├── network_route_simulator/    # моделирование сети
+└── osm-sensor-monitor-/        # мониторинг датчиков
 ```
 
-### network_route_simulator
+| Проект | Описание | Язык |
+| :--- | :--- | :--- |
+| [network_route_simulator ↗](https://github.com/salatekk4/network_route_simulator) | Консольная программа для моделирования сети роутеров и поиска маршрутов между ними. | Python |
+| [osm-sensor-monitor- ↗](https://github.com/salatekk4/osm-sensor-monitor-) | Консольное приложение для мониторинга и обработки показаний датчиков температуры, газа и CO₂. | Java |
 
-Консольная программа на Python для моделирования сети роутеров
-и поиска маршрутов между ними.
+<details>
+<summary>Подробнее о моделировании сети</summary>
 
 - Представление сети в виде ориентированного графа.
 - Добавление и удаление соединений.
 - Поиск маршрутов с помощью BFS и алгоритма Дейкстры.
 - Сохранение графа в JSON-файл.
 
-Язык: Python.
-
-[Открыть репозиторий →](https://github.com/salatekk4/network_route_simulator)
-
-### osm-sensor-monitor-
-
-Консольное Java-приложение для мониторинга и обработки показаний
-датчиков температуры, газа и CO₂.
-
-Язык: Java.
-
-[Открыть репозиторий →](https://github.com/salatekk4/osm-sensor-monitor-)
+</details>
 
 ## Контакты
 
 ```text
 maxim@github:~$ cat contacts.txt
-
-Email      mangushev_maksim@mail.ru
-Telegram   @rustlesound
 ```
 
-[Написать на почту](mailto:mangushev_maksim@mail.ru) · [Telegram](https://t.me/rustlesound)
+<p align="center">
+  <a href="mailto:mangushev_maksim@mail.ru">✉ mangushev_maksim@mail.ru</a>
+  &nbsp; · &nbsp;
+  <a href="https://t.me/rustlesound">↗ Telegram: @rustlesound</a>
+</p>
+
+---
+
+<p align="center"><code>salatekk4 · личные проекты · обучение через практику</code></p>
