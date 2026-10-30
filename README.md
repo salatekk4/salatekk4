@@ -3,12 +3,24 @@
 </p>
 
 <p align="center">
+  <a href="#активность">Активность</a> ·
   <a href="#обо-мне">Обо мне</a> ·
   <a href="#технологии">Технологии</a> ·
   <a href="#проекты">Проекты</a> ·
-  <a href="#активность">Активность</a> ·
   <a href="#контакты">Контакты</a>
 </p>
+
+## Активность
+
+```text
+maxim@github:~$ ./contribution-snake --theme purple-neon
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salatekk4/salatekk4/output/contribution-snake.svg" width="100%" alt="Анимация змейки по календарю активности salatekk4" />
+</p>
+
+<p align="center"><sub>Календарь активности в фиолетовой палитре · обновляется ежедневно через GitHub Actions</sub></p>
 
 ## Обо мне
 
@@ -48,18 +60,6 @@ maxim@github:~$ ls projects/
 - Сохранение графа в JSON-файл.
 
 </details>
-
-## Активность
-
-```text
-maxim@github:~$ ./contribution-snake --theme purple-neon
-```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salatekk4/salatekk4/output/contribution-snake.svg" width="100%" alt="Анимация змейки по календарю активности salatekk4" />
-</p>
-
-<p align="center"><sub>Календарь активности в фиолетовой палитре · обновляется ежедневно через GitHub Actions</sub></p>
 
 ## Контакты
 
