@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Максим — salatekk4. Изучаю программирование и создаю личные проекты." />
+  <img src="assets/header.svg" width="100%" alt="Max — salatekk4. Изучаю программирование и создаю личные проекты." />
 </p>
 
 <p align="center">
   <a href="#обо-мне">Обо мне</a> ·
   <a href="#технологии">Технологии</a> ·
   <a href="#проекты">Проекты</a> ·
+  <a href="#активность">Активность</a> ·
   <a href="#контакты">Контакты</a>
 </p>
 
@@ -47,6 +48,18 @@ maxim@github:~$ ls projects/
 - Сохранение графа в JSON-файл.
 
 </details>
+
+## Активность
+
+```text
+maxim@github:~$ ./contribution-snake --theme purple-neon
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salatekk4/salatekk4/output/contribution-snake.svg" width="100%" alt="Анимация змейки по календарю активности salatekk4" />
+</p>
+
+<p align="center"><sub>Календарь активности в фиолетовой палитре · обновляется ежедневно через GitHub Actions</sub></p>
 
 ## Контакты
 
